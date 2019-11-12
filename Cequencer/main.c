@@ -85,7 +85,7 @@ int main(int argc, char argv[]) {
 }
 
 int call_raster_main() {
-	//CALL ME123456456
+	//CALL ME123456456yxcv
 	int tx = 0;  //tmp for trigger print
 
 	char player[2] = { 'X','O' };
